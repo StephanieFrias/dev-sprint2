@@ -1,2 +1,6 @@
 # Please put answers for the week2 stand alone questions here
-# Name:
+# Name: Stephanie Frias
+
+# 1. A webapp that scrolls through a picture album in carousel form.
+# 2. A webapp that tells you the time in five different time zones.
+# 3. A webapp that is a blog allowing for user comments from those that 	log in.
