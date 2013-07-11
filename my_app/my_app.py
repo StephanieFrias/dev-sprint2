@@ -5,7 +5,7 @@ app = flask.Flask(__name__)
 
 app.secret_key = "bacon"
 
-users = {'stephanie':'bacon'}
+users = {'stephanie':'rampup'}
 
 class Main(flask.views.MethodView):
 	def get(self):
